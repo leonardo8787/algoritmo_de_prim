@@ -1,4 +1,4 @@
-<h1>algoritmo_de_prim<h2>
+<h1>algoritmo_de_prim</h2>
 Na ciência da computação o algoritmo de Prim é um algoritmo guloso empregado para encontrar uma árvore geradora mínima num grafo conectado, valorado e não direcionado.
 
 <h2>Descrição</h2>
